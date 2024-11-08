@@ -10,7 +10,6 @@ body{
 .interface{
 
     width: 1170px;
-    background-color: #cecece;
     margin: auto;
 }
 header{
@@ -24,6 +23,7 @@ header img{
     header nav ul{
         display: inline-block;
         float: right;
+       
     }
     header nav ul li{
         display: inline-block;
